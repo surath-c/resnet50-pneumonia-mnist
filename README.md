@@ -62,3 +62,4 @@ F1-Score (Ensemble): 0.8220
 AUC-ROC (Ensemble): 0.8906
 ---
 
+![image](https://github.com/user-attachments/assets/cfd561cf-2cd5-4562-9cb7-0773a8a1cea9)
