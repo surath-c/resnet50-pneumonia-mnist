@@ -1,0 +1,7 @@
+| Parameter     | Value                       |
+| ------------- | --------------------------- |
+| Learning Rate | 1e-4 → 1e-5                 |
+| Batch Size    | 32                          |
+| Epochs        | 15 + 5 (fine-tuning)        |
+| Loss Function | Focal Loss with `gamma=2.0` |
+| Class Weights | Computed from training data |
